@@ -3,11 +3,12 @@ Proyecto de la materia de Ingeniería de software- UNAM  ENES unidad Morelia
 
 # Integrantes del proyecto
 Erika Monserrat Correa Hernández
+
 Hannia Ashley Galván Álvarado
 
 # Contacto
 * erikacorreahdez@gmail.com
-*
+* haash2706@gmail.com
 
 # Descripción
 "Tostadas Mayo" es un negocio dedicado a la venta de tostadas que requiere un software integral para administrar eficientemente sus operaciones diarias. Este sistema proporcionará herramientas para gestionar datos de ventas, inventario de materias primas, catálogo de productos, relaciones con proveedores, así como funciones de generación de informes y análisis de rendimiento.
