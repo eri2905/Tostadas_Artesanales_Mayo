@@ -37,7 +37,7 @@ Seguimiento de los pedidos realizados a cada proveedor y su estado de entrega.
 Gestión de pagos a proveedores y seguimiento de cuentas por pagar.
 
 
-Tecnologías Utilizadas:
+# Tecnologías Utilizadas:
 
 Lenguaje de Programación : Python
 
