@@ -35,12 +35,8 @@ Visualización de un resumen financiero para evaluar la rentabilidad del negocio
 Registro de información de contacto y términos de contrato para cada proveedor.
 Seguimiento de los pedidos realizados a cada proveedor y su estado de entrega.
 Gestión de pagos a proveedores y seguimiento de cuentas por pagar.
-# Gráficos de Rendimiento
-Creación de gráficos y diagramas para visualizar el rendimiento del negocio.
-Representación visual de datos como ventas por producto, tendencias de ingresos, y análisis de rentabilidad.
-# Seguridad
-Implementación de medidas de seguridad robustas para proteger la integridad y confidencialidad de los datos.
-Copias de seguridad regulares para garantizar la disponibilidad de la información en caso de fallos del sistema o pérdida de datos.
+
+
 Tecnologías Utilizadas:
 Lenguaje de Programación:Python
 Base de Datos: Sqlite 3
