@@ -38,6 +38,11 @@ Gestión de pagos a proveedores y seguimiento de cuentas por pagar.
 
 
 Tecnologías Utilizadas:
-Lenguaje de Programación:Python
+
+Lenguaje de Programación : Python
+
 Sistema gestor de base de datos : Sqlite 3
+
 Frameworks o Bibliotecas: Tkinter
+
+Requisitos del sistema: Tkinter esta incluido por defecto con la instalación para Microsoft Windows, pero funciona también para otros sistemas operativos, aunque la visualización es un poco diferente.
